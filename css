@@ -1,0 +1,14 @@
+body {
+  overflow: hidden;
+}
+section {
+  background-color: black;
+  position: relative;
+}
+.logo {
+  position: absolute;
+  width: 200px;
+}
+.logo-rect {
+  fill: #ff7000;
+}
