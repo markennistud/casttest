@@ -1,4 +1,4 @@
-onst section = document.querySelector("section");
+const section = document.querySelector("section");
 const logo = document.querySelector(".logo");
 section.style.height = window.innerHeight + "px";
 section.style.width = window.innerWidth + "px";
